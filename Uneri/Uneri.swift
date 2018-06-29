@@ -1,6 +1,6 @@
 import UIKit
 
-class Uneri: UIView {
+open class Uneri: UIView {
     open var uneriSpeed = CGFloat(0.5) {
         didSet {
             mainUneriLayer.speed = Float(uneriSpeed)
