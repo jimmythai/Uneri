@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name = "Uneri"
-  s.version = "1.0.0"
-  s.summary = "Uneri (うねり) is a wave animation view library. 🌊"
+  s.version = "1.0.1"
+  s.summary = "Uneri (うねり) is a wave animation view library 🌊"
   s.homepage = "https://github.com/jimmythai/Uneri"
   s.license = { :type => "MIT", :file => "LICENSE" }
   s.author = { "Atsuthi Yamamoto" => "ayamam1127@gmail.com" }

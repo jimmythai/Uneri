@@ -1,9 +1,10 @@
 # Uneri
-Uneri (うねり) is a wave animation view library. 🌊
+
+Uneri (うねり) is a wave animation view library 🌊
 
 ## Screenshot
 
-![Screenshot](screenshot.gif)
+![Screenshot](https://github.com/jimmythai/Uneri/blob/master/screenshot.gif)
 
 ## Installation
 
@@ -121,4 +122,4 @@ uneri.resume()
 
 ## License
 
-Uneri is released under the MIT license. See [LICENSE](LICENSE) for details.
+Uneri is released under the MIT license. See [LICENSE](https://github.com/jimmythai/Uneri/blob/master/LICENSE) for details.
