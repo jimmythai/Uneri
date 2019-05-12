@@ -178,7 +178,7 @@ open class Uneri: UIView {
         let animGroup = CAAnimationGroup()
         animGroup.animations = animations
         animGroup.duration = animations.last!.beginTime + animations.last!.duration
-        animGroup.fillMode = kCAFillModeForwards
+        animGroup.fillMode = .forwards
         animGroup.isRemovedOnCompletion = false
         animGroup.repeatCount = .infinity
         return animGroup
